@@ -20,3 +20,4 @@ Inkscape;Inkscape is a powerful, free and open-source vector graphics editor tha
 Shotcut;Shotcut is a free, open source, cross-platform video editor for Windows, Mac and Linux.;https://github.com/karan5chaos/IT_starter_pack/releases/download/1.0/shotcut-win64-240128.exe;sc.exe
 Konica Minolta Printer Drivers;Printer drivers for colour printer (Further setup rerquired);https://github.com/karan5chaos/IT_starter_pack/releases/download/1.0/IT6PCL6Winx64_31120EN.zip;km_drivers.zip
 Kyocera Printer Drivers;Printer drivers for black and white printer;https://github.com/karan5chaos/IT_starter_pack/releases/download/1.0/KX_Universal_Printer_Driver.zip;ky_drivers.zip
+Rufus;Rufus is a utility that helps format and create bootable USB flash drives from ISO images of Windows, Linux, UEFI, etc.;https://github.com/karan5chaos/IT_starter_pack/releases/download/1.0/rufus-4.4.exe;rufus.exe
