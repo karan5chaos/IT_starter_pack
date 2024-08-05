@@ -37,3 +37,4 @@ ASUS Expertbook drivers;ASUS Expertbook Drivers;https://drive.usercontent.google
 CPU-Z;CPU-Z is a freeware that gathers information on some of the main devices of your system;https://github.com/karan5chaos/IT_starter_pack/releases/download/1.0/cpu-z.exe;cpu-z.exe
 P1412CEA Drivers;Aus P1412CEA Model drivers;https://github.com/karan5chaos/IT_starter_pack/releases/download/1.0/P1412CEA_21H2_X64_V2.00_L.iso.7z;p1412.7z
 Simple Sticky Notes;It's a simple, easy-to-use, absolutely free, fast and efficient note taking software.;https://github.com/karan5chaos/IT_starter_pack/releases/download/1.0/Setup_SimpleStickyNotes.exe;ssn.exe
+HandBrake;HandBrake is a open-source tool, built by volunteers, for converting video from nearly any format to a selection of modern, widely supported codecs.;https://github.com/karan5chaos/IT_starter_pack/releases/download/1.0/HandBrake-1.8.1-x86_64-Win_GUI.exe;hbk.exe
