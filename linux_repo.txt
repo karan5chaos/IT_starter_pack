@@ -1,1 +1,1 @@
-
+OnlyOffice;ONLYOFFICE is a free and open source office suite that supports documents, spreadsheets, presentations, forms and PDF files.;https://github.com/karan5chaos/IT_starter_pack/releases/download/1.1/onlyoffice-desktopeditors_amd64.deb;oof.deb
